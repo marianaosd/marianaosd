@@ -1,4 +1,4 @@
-# [Mariana] <img src=https://www.icegif.com/hello-kitty-182/ width="30px">
+# [Mariana] <img src=[https://www.icegif.com/hello-kitty-182/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fhello-kitty&psig=AOvVaw34FJBKjBx7qtGLLMBNr_Fa&ust=1755734667416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLid58SLmI8DFQAAAAAdAAAAABBq) width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
