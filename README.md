@@ -1,6 +1,6 @@
-# [Mariana] <img src=["https://www.icegif.com/hello-kitty-182/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fhello-kitty&psig=AOvVaw34FJBKjBx7qtGLLMBNr_Fa&ust=1755734667416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLid58SLmI8DFQAAAAAdAAAAABBq)" width="30px">
+# Mariana Oliveira <img src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="90px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou a <strong>Mariana Oliveira</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
